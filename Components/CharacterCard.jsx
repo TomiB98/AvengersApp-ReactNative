@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
         // backgroundColor: 'rgba(255, 0, 0, 0.5)',
     },
     image: {
-        borderBottomWidth: 7,
+        borderBottomWidth: 6,
         borderTopWidth: 3,
         borderColor: 'rgba(84,84,84, 1)',
         borderRadius: 150,
