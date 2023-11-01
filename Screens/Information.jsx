@@ -26,13 +26,13 @@ const styles = StyleSheet.create({
     },
     image: {
         borderRadius: 5,
-        height: 150,
-        width: 150,
+        height: 350,
+        width: 350,
     },
     title: {
         color: 'blue',
         fontWeight: 'bold',
-        fontSize: 15
+        fontSize: 30
     },
     description: {
         borderWidth: 1,
@@ -40,6 +40,6 @@ const styles = StyleSheet.create({
         backgroundColor: 'rgba(255, 0, 0, 0.5)',
         padding: 2,
         borderColor: 'red',
-        fontSize: 15
+        fontSize: 20
     },
 });

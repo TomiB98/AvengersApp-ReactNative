@@ -27,6 +27,7 @@ export default function CharacterCard({ image, name, id }) {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
+        width: '100%',
         backgroundColor: 'rgba(255, 0, 0, 0.8)',
         alignItems: 'center',
         marginBottom: 2,
